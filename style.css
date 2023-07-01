@@ -36,7 +36,7 @@
     width: 30%;
 }
 
-.go,.bt ,.tt , .Video{
+.go,.bt ,.tt{
     animation: anime 1s infinite ease-in-out alternate;
 }
 @keyframes anime {
