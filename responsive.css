@@ -1,0 +1,358 @@
+@media (min-width: 100px) and (max-width:320px){
+    .body{
+        overflow:hidden;
+        background-image: url("./image/Amination4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    #myVideo {
+        position: fixed;
+        right: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: none;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    
+    .col-8 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .header-one .logo img {
+        width: 100%;
+    }
+    .header-one .menu-1 img{
+        width:50px;
+    }
+    .header-one .menu-2 img {
+        width: 25%;
+    }
+    .go img {
+        width: 50%;
+    }
+    .bt img {
+        width: 50%;
+    }
+    .mt-3 {
+        margin-top: 0.4rem!important;
+    }
+    .menu-1{
+        display: flex;
+    }
+    .menu-1 .pull{
+        display: none;
+    }
+    .pt-2 {
+        padding-top: 0rem!important;
+    }
+    .tt img {
+        width: 100%;
+    }
+    .go,.bt ,.tt{
+        animation: anime 1s infinite ease-in-out alternate;
+    }
+    @keyframes anime {
+        100%{
+            transform: translateY(10px);
+        }
+    
+    }
+    .bg1{
+        display:block;
+    }
+    .bg1 .Video{
+        width: 40%;
+    }
+
+}
+@media (min-width: 320px) and (max-width: 480px){
+    .body{
+        overflow:hidden;
+        background-image: url("./image/Amination4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    #myVideo {
+        position: fixed;
+        right: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: none;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+   
+    .col-8 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .header-one .logo img {
+        width: 100%;
+    }
+    .header-one .menu-1 img{
+        width:50px;
+    }
+    .header-one .menu-2 img {
+        width: 25%;
+    }
+    .go img {
+        width: 50%;
+    }
+    .bt img {
+        width: 50%;
+    }
+    .mt-3 {
+        margin-top: 0.4rem!important;
+    }
+    .menu-1{
+        display: flex;
+    }
+    .menu-1 .pull{
+        display: none;
+    }
+    .pt-2 {
+        padding-top: 0rem!important;
+    }
+    .tt img {
+        width: 100%;
+    }
+    .go,.bt ,.tt{
+        animation: anime 1s infinite ease-in-out alternate;
+    }
+    @keyframes anime {
+        100%{
+            transform: translateY(10px);
+        }
+    
+    }
+    .bg1{
+        display:block;
+    }
+    .bg1 .Video{
+        width: 40%;
+    }
+
+
+} 
+@media (min-width: 481px) and (max-width: 767px){
+    .body{
+        overflow:hidden;
+        background-image: url("./image/Amination4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    #myVideo {
+        position: fixed;
+        right: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: none;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    .col-8 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .header-one .logo img {
+        width: 100%;
+    }
+    .header-one .menu-1 img{
+        width:80px;
+    }
+    .header-one .menu-2 img {
+        width: 25%;
+    }
+    .go img {
+        width: 50%;
+    }
+    .bt img {
+        width: 50%;
+    }
+    .mt-3 {
+        margin-top: 0.4rem!important;
+    }
+    .menu-1{
+        display: flex;
+    }
+    .menu-1 .pull{
+        display: none;
+    }
+    .pt-2 {
+        padding-top: 0rem!important;
+    }
+    .tt img {
+        width: 100%;
+    }
+    .go,.bt ,.tt{
+        animation: anime 1s infinite ease-in-out alternate;
+    }
+    @keyframes anime {
+        100%{
+            transform: translateY(10px);
+        }
+    }
+    .bg1{
+        display:block;
+        margin-top: 5px;
+    }
+    .bg1 .Video{
+        width: 45%;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .body{
+        overflow:hidden;
+        background-image: url("./image/Amination4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    #myVideo {
+        position: fixed;
+        right: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: none;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    .col-8 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .header-one .logo img {
+        width: 100%;
+    }
+    .header-one .menu-1 img{
+        width:80px;
+    }
+    .header-one .menu-2 img {
+        width: 25%;
+    }
+    .go img {
+        width: 50%;
+    }
+    .bt img {
+        width: 50%;
+    }
+    .mt-3 {
+        margin-top: 0.4rem!important;
+    }
+    .menu-1{
+        display: flex;
+    }
+    .pt-2 {
+        padding-top: 0rem!important;
+    }
+    .tt img {
+        width: 100%;
+    }
+    .go,.bt ,.tt{
+        animation: anime 1s infinite ease-in-out alternate;
+    }
+    @keyframes anime {
+        100%{
+            transform: translateY(10px);
+        }
+    }
+    .bg1{
+        display:block;
+        margin-top: 5px;
+    }
+    .bg1 .Video{
+        width: 45%;
+    }
+
+}
+@media (min-width: 1025px) and (max-width: 1280px){
+    .body{
+        overflow:hidden;
+        background-image: url("./image/Amination4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    #myVideo {
+        position: fixed;
+        right: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: none;
+    }
+    .mt-5 {
+        margin-top: 1rem!important;
+    }
+    .col-8 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .header-one .logo img {
+        width: 100%;
+    }
+    .header-one .menu-1 img{
+        width:80px;
+    }
+    .header-one .menu-2 img {
+        width: 25%;
+    }
+    .go img {
+        width: 50%;
+    }
+    .bt img {
+        width: 50%;
+    }
+    .mt-3 {
+        margin-top: 0.4rem!important;
+    }
+    .menu-1{
+        display: flex;
+    }
+    .pt-2 {
+        padding-top: 0rem!important;
+    }
+    .tt img {
+        width: 100%;
+    }
+    .go,.bt ,.tt{
+        animation: anime 1s infinite ease-in-out alternate;
+    }
+    @keyframes anime {
+        100%{
+            transform: translateY(10px);
+        }
+    }
+    .bg1{
+        display:block;
+        margin-top: 5px;
+    }
+    .bg1 .Video{
+        width: 45%;
+    }
+
+
+}

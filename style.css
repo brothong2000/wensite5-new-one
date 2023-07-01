@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    top: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+  }
+  .container .header{
+    margin: auto;
+  }
+.header-one{
+
+    display: flex;
+   justify-content:space-between ;
+}
+.header-one .logo img{
+    width:60%;
+}
+.header-one .menu-1 img{
+    width: 30%;
+}
+.header-one .menu-2 img{
+    width: 15%;
+}
+.go img{    
+ width: 30%;
+}
+.bt img {
+    width: 30%;
+}
+
+.go,.bt ,.tt , .Video{
+    animation: anime 1s infinite ease-in-out alternate;
+}
+@keyframes anime {
+    100%{
+        transform: translateY(20px);
+    }
+}
+.tt img{
+    width: 50%;
+}
+.container{
+    position: relative;
+}
+.tt{
+    position: absolute;
+    bottom:20px;
+    left: 0;
+}
+.body1{
+    overflow: hidden;
+}
+.bg1{
+    display:none;
+}
